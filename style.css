@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    font-size: larger;
+    text-align: center;
+}
+
+h2{
+    color: red;
+    font-size: medium;
+    text-align: center;
+}
+
+.DirectSpeech{
+    font-style: italic;
+}
+
+.Wish{
+    text-transform: uppercase;
+}
+
